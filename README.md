@@ -1,4 +1,4 @@
-# Web-RateMyTravel
+# Mi primera web en Django
 # Primero:
 - Django == 2.0.2
 - mysqlcliente = 1.3.13
